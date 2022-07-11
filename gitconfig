@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = pmpmchaves@gmail.com
+	name = pedro chaves
